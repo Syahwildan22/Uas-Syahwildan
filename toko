@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syahwildan | 2223030020 | KA-REG-4</title>
+<style>
+body {
+            background-image: url('bacround.jpg');
+            font-family: Arial, sans-serif;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: blue;
+            font-size: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .content {
+            text-align: center;
+        }
+        .content img {
+            margin: 10px;
+        }
+        form {
+            display: inline-block;
+            text-align: left;
+            margin-top: 20px;
+        }
+        form label, form input, form button {
+            display: block;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+</style>
+<body>
+    <h1>AR Farm</h1>
+    <p> AR Farm Menyediakan daging ayam segar, dan daging ayam fillet</p>
+
+    <h2>Produk Kami</h2>
+    <div>
+        <img src="Ayam4.jpeg" alt="fs" height="250" width="180">
+        <img src="Ayam5.jpg" alt="fs" height="250" width="180">
+        <img src="Ayam6.jpeg" alt="fs" height="250" width="180">
+        <p><b><i>Harga Mulai Dari</b> Rp 25.000 per kilo</i></p>
+        <hr>
+
+                <h3>Formulir Pemesanan</h3>
+                <form id="orderForm">
+                    <label for="name">Nama:</label>
+                    <input type="text" id="name" name="name" required>
+                    <label for="phone">Nomor HP:</label>
+                    <input type="text" id="phone" name="phone" required>
+                    <label for="Alamat">Alamat:</label>
+                    <input type="text" id="Alamat" name="Alamat" required>
+                    <label for="submitOption">Kirim Order Melalui:</label>
+                    <div>
+
+                        <img src="Ayam7.jpg" alt="fs" height="350" width="280">
+
+                        <h2>Kontak Kami</h2>
+    <a href="https://web.whatsapp.com/send?phone=6283873622470&text=Syahwildan2223030020...">
+       <h1> <img src="Whatsapp.jpg" alt="fs" height="180" width="110">
+        SyahwildanFatrialis..083873622470..ORDER SEKARANG!!!</h1>
+   </a>
+   
+
+    </div>
+</body>
+</html>
